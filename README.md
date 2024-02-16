@@ -6,3 +6,4 @@ python==3.9.18
 torch=2.2.0+cu121
 numpy==1.26.3
 pandas==2.2.0
+transformers==4.37.2
